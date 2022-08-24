@@ -1,4 +1,4 @@
-# Hi there, I'm Faizan! 
+# Hi there, I'm Faizan! :wave:
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FR1998&show_icons=true&theme=radical"/>
 
