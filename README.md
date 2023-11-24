@@ -1,7 +1,7 @@
 # Hi there, I'm Faizan! :wave:
 
 
-# ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FR1998&show_icons=true&theme=radical)
+# ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FR1998&show_icons=true&theme=radical&count_private=true)
 # ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FR1998&layout=compact)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
