@@ -1,8 +1,10 @@
 # Hi there, I'm Faizan! :wave:
 
-
+# ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FR1998&theme=dark)
 # ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FR1998&show_icons=true&theme=radical&count_private=true)
 # ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FR1998&layout=compact)
+# ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FR1998&theme=nord&column=7)
+
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
